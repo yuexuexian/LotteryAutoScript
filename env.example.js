@@ -23,7 +23,7 @@ module.exports = Object.freeze({
      * **按顺序依次执行, 防止访问频繁封禁IP**
      */
     account_parm: {
-        COOKIE: '',
+        COOKIE: 'secrets.COOKIE',
         NOTE: '大号',
         NUMBER: 1,
         CLEAR: true,

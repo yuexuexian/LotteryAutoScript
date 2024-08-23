@@ -8,7 +8,7 @@ module.exports = Object.freeze({
         /**
          * 监视更转的用户uid
          */
-        UIDs: [],
+        UIDs: [170122891],
 
         /**
          * 监视的tag
